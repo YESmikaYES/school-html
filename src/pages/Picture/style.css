@@ -1,0 +1,12 @@
+.row {
+    width: 98.5%;
+    margin-left: 1.25%;
+    margin-right: 0.5%;
+}
+
+.item {
+    float: left;
+    width: 19.2%;
+    margin-left: 0.5%;
+}
+

@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
 }
 
 .App-logo {
@@ -35,4 +37,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+body {
+  background: url("../public/assets/bg.png") no-repeat;
+  background-size: cover;
+  ;
 }

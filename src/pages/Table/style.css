@@ -1,0 +1,67 @@
+.table {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: solid 3px black;
+}
+
+.heading {
+    background-color: black;
+    color: white;
+    border: black solid 2px;
+}
+
+.solar {
+    background-color: rgb(223, 184, 100);
+    color: black;
+}
+
+.arc {
+    background-color: rgb(163, 255, 255);
+    color: black;
+}
+
+.void {
+    background-color: rgb(144, 114, 212);
+    color: black;
+}
+
+.stasis {
+    background-color: rgba(31, 17, 223, 0.904);
+    color: white;
+}
+
+.strand {
+    background-color: rgb(15, 141, 22);
+    color: white;
+}
+
+#solar {
+    background-color: rgb(211, 144, 0);
+    color: white;
+    font-weight: bolder;
+}
+
+#arc {
+    background-color: rgb(0, 179, 179);
+    color: white;
+    font-weight: bolder;
+}
+
+#void {
+    background-color: rgb(50, 0, 167);
+    color: white;
+    font-weight: bolder;
+}
+
+#stasis {
+    background-color: rgb(11, 3, 134);
+    color: white;
+    font-weight: bolder;
+}
+
+#strand {
+    background-color: rgb(0, 68, 3);
+    color: white;
+    font-weight: bolder;
+}

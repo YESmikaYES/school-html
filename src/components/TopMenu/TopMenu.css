@@ -3,10 +3,12 @@ a {
   color: rgb(255, 255, 255);
   cursor: pointer;
   font-size: 25px;
+  text-decoration: none;
 }
 a:first-child {
   padding-left: 0;
 }
 a:hover {
   color: rgb(124, 166, 206);
+  
 }

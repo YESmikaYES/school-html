@@ -40,7 +40,7 @@
 }
 
 body {
-  background: url("../public/assets/bg.png") no-repeat;
+  background: url("../public/assets/bg.png");
   background-size: cover;
-  ;
+  background-position: center;
 }

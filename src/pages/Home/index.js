@@ -2,10 +2,8 @@ import React from "react";
 import "./style.css";
 
 export default () => (
-    <div >
+    <div id="body">
         <br />        
-        <br />
-        <br />
         <br />
         <br />
         <h1 id="title"><a href="https://www.bungie.net/7/en/destiny/newlight" id="title">Destiny 2</a></h1>
@@ -24,7 +22,7 @@ export default () => (
         </div>
         <div className="container">
             <div id="left">
-            <img className="pic" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Destiny_2_%28artwork%29.jpg/220px-Destiny_2_%28artwork%29.jpg"></img>
+                <img className="pic" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Destiny_2_%28artwork%29.jpg/220px-Destiny_2_%28artwork%29.jpg"></img>
             </div>
             <p id="right">
             Set in a "mythic science fiction" world, the game features a <b>multiplayer "shared-world" environment with elements of role-playing games.</b> 

@@ -1,10 +1,12 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import logo from './logo.svg';
 import './App.css';
 import AppHeader from './components/AppHeader/AppHeader';
 import Home from './pages/Home';
 import Table from './pages/Table';
 import Picture from './pages/Picture';
+
+
+
 
 function App() {
   return (

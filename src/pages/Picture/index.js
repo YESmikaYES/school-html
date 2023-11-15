@@ -10,7 +10,7 @@ export default () => (
         <div className="row">
             <img className="item" src="/assets/solar.png" title="solar titan"></img>
             <img className="item" src="/assets/arc.png" title="arc warlock"></img>
-            <img className="item" src="/assets/void.png" title="void  hunter"></img>
+            <img className="item" src="/assets/void.png" title="void hunter"></img>
             <img className="item" src="/assets/stasis.png" title="stasis titan"></img>
             <img className="item" src="/assets/strand.png" title="strand warlock"></img>
         </div>
